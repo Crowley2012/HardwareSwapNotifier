@@ -9,15 +9,15 @@ javac -cp ".:mail.jar" Main.java
 
 It is now much easier to use without the use of gathering external links and using email addresses. Everything can now be done within the program!
 
-  Some notable new features
+  Some notable new features.
 
-  * No longer need to add a keyword
+  * No longer need to add a keyword.
 
-  * No longer need to add an email address
+  * No longer need to add an email address.
 
-  * Manually change check interval
+  * Manually change check interval.
 
-  * Remove post when found
+  * Remove post when found.
 
   * Remove Phone Numbers/Items within the program
 
